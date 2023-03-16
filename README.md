@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcMoerkeberg.
 - 👀 I’m interested in game and web developement.
-- 🌱 I’m currently learning sql, javascript and the monogame framework.
+- 🌱 I’m currently working on a website using Vuejs 3.* and Vuetify.
 - 📫 Reach me on twitter @MarcMoerkeberg
 
 <!---
