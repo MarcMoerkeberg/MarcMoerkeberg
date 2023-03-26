@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarcMoerkeberg.
+- 👋 Hi, I’m Marc.
 - 👀 I’m interested in game and web developement.
 - 🌱 I’m currently working on a website using Vuejs 3.* and Vuetify.
 - 📫 Reach me on twitter [@MarcMoerkeberg](https://twitter.com/MarcMoerkeberg)
