@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marc.
 - 👀 I’m interested in game and web developement.
-- 🌱 I’m currently working on a project for indexing Magic the Gathering card collections.
+- 🌱 I’m currently working on [CardAtlas](https://github.com/MarcMoerkeberg/CardAtlas) - a project for indexing Magic the Gathering card collections.
 - 📫 Reach me on twitter [@MarcMoerkeberg](https://twitter.com/MarcMoerkeberg) or visit my [website](https://marcmorkeberg.dk/)
 
 <!---
